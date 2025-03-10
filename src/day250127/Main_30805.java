@@ -25,6 +25,11 @@ public class Main_30805 {
         solution();
     }
 
+    // java
+    // int -21억 ~ 21  정수 =int
+    // short -128 ~ 128
+
+
     private static void init() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
