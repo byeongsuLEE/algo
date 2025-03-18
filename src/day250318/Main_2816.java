@@ -13,6 +13,7 @@ import java.util.StringTokenizer;
 
 
 public class Main_2816 {
+    123123123;
     private static StringBuilder sb= new StringBuilder();
     private static int N;
     private static int kb1Index,kb2Index;
