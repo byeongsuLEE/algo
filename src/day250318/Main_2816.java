@@ -21,7 +21,7 @@ public class Main_2816 {
     public static void main(String[] args) throws IOException {
         init();
         solution();
-    }12312123123
+    }
 
     private static void solution() {
         int curIndex = 0 ;
