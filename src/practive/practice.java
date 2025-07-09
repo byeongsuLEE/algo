@@ -13,10 +13,10 @@ public class practice {
         //
         String space = " ";
         String star = "*";
-        int size = 3;
+        int size = 6;
 
         int i,j;
-        for( i = 0 ; i <=size; i++){
+        for( i = 0 ; i <size; i++){
             for(j = 0; j < size - i - 1; j++) {
                 System.out.print(space);
             }
